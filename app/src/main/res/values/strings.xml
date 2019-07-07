@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Group10_Brainer</string>
+    <string-array name="names">
+        <item>Test Subject 1</item>
+        <item>Test Subject 2</item>
+        <item>Test Subject 3</item>
+        <item>Test Subject 4</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="server_type">
+        <item>Fog</item>
+        <item>Cloud</item>
+        <item>Mobile</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="algorithms">
+        <item>Naive Bayes</item>
+        <item>Support Vector Machine</item>
+        <item>K - Nearest Neighbors</item>
+        <item>Logistic Regression</item>
+        <item>Decision Tree</item>
+    </string-array>
+</resources>
